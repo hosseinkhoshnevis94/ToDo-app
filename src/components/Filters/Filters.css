@@ -1,0 +1,26 @@
+.filter{
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+        justify-content: space-between;
+    padding: 10px 0 20px;
+    border-bottom: 1px solid #d31212;
+    
+}
+.btn{
+    border: none;
+    background-color: transparent;
+    padding: 5px 10px;
+    box-shadow: 0px 1px 3px 1px #dacaca;
+    margin-top: 10px;
+    border-radius: 16px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.btn:hover{
+    color: #d31212;
+}
+input{
+    margin :0 5px;
+    cursor: pointer;
+}
