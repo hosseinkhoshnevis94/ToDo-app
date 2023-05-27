@@ -5,8 +5,8 @@
     justify-content: center;
     row-gap: 20px;
     flex-direction: column;
-    margin: 100px auto 0;
-    background-color: rgb(253, 248, 255);
+    margin: 100px auto 100px;
+    box-shadow: 0px 4px 9px 4px #efefef;
     border-radius: 16px;
 
 }

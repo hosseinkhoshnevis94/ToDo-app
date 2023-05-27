@@ -1,0 +1,16 @@
+.todo-item-container,.todo-item-right,.todo-item-left{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+}
+.todo-item-right{
+    column-gap: 10px;
+}
+.todo-item-right .close-btn{
+cursor: pointer;
+color: red;
+}
+
+
+

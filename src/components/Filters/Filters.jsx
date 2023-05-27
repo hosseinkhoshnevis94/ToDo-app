@@ -19,7 +19,7 @@ const Filters = () => {
         title={"Filter By Color"}
         top={"0px"}
         onClick={() => console.log("hi")}
-        left={"0px"}borderLeft={'1px solid gray'}
+        left={"0px"}borderLeft={'1px solid #dadada'}
         padding={"0px 15px 0"}
       >
         <label htmlFor="red" >
@@ -44,7 +44,7 @@ const Filters = () => {
         top={"0px"}
         onClick={() => console.log("hi")}
         left={"0px"}
-        borderLeft={'1px solid gray'}
+        borderLeft={'1px solid #dadada'}
         padding={"0px 15px 0"}
       >
          <button className="btn">All</button>
